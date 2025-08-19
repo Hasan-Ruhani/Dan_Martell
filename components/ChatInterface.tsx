@@ -278,7 +278,7 @@ export function ChatInterface() {
               <p className="text-gray-600 mb-8 max-w-lg mx-auto leading-relaxed">
                 This assistant is based on Dan Martell's public content.
                 Responses are for informational purposes only and may not be
-                100% accurate. All intellectual property belongs to Dan Buglio.
+                100% accurate. All intellectual property belongs to Dan Martell.
               </p>
 
               {/* Feature highlights */}
@@ -338,7 +338,7 @@ export function ChatInterface() {
                 <p className="text-gray-600 mb-6 max-w-lg mx-auto text-sm leading-relaxed">
                   This assistant is based on Dan Martell's public content.
                   Responses are for informational purposes only and may not be
-                  100% accurate. All intellectual property belongs to Dan Buglio.
+                  100% accurate. All intellectual property belongs to Dan Martell.
                 </p>
 
                 {/* Feature highlights */}
